@@ -24,7 +24,9 @@
     </tr>
     <tr>
       <td><strong>Dev tools</strong></td>
-      <td><a href="https://github.com/gavv/md-authors">md-authors</a>,
+      <td>
+        <a href="https://github.com/gavv/reclog">reclog</a>,
+        <a href="https://github.com/gavv/md-authors">md-authors</a>,
         <a href="https://github.com/gavv/httpshd">httpshd</a>, 
         <a href="https://github.com/gavv/linuxdeployqt6.py">linuxdeployqt6.py</a>
       </td>
