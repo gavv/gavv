@@ -35,7 +35,6 @@
       <td><strong>Go libs</strong></td>
       <td><a href="https://github.com/gavv/httpexpect">httpexpect</a>,
         <a href="https://github.com/gavv/cobradoc">cobradoc</a>, 
-        <a href="https://github.com/gavv/returnstyles">returnstyles</a>
       </td>
     </tr>
     <tr>
