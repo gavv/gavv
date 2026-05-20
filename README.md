@@ -14,7 +14,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Audio tools</strong></td>
+      <td><strong>Audio libs & tools</strong></td>
       <td>
         <a href="https://github.com/gavv/libASPL">libASPL</a>, 
         <a href="https://github.com/gavv/signal-estimator">signal-estimator</a>, 
@@ -23,18 +23,18 @@
       </td>
     </tr>
     <tr>
+      <td><strong>Dev libs</strong></td>
+      <td><a href="https://github.com/gavv/httpexpect">httpexpect</a>,
+        <a href="https://github.com/gavv/cobradoc">cobradoc</a>
+      </td>
+    </tr>
+    <tr>
       <td><strong>Dev tools</strong></td>
       <td>
         <a href="https://github.com/gavv/reclog">reclog</a>,
         <a href="https://github.com/gavv/md-authors">md-authors</a>,
-        <a href="https://github.com/gavv/httpshd">httpshd</a>, 
+        <a href="https://github.com/gavv/httpshd">httpshd</a>
         <a href="https://github.com/gavv/linuxdeployqt6.py">linuxdeployqt6.py</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Go libs</strong></td>
-      <td><a href="https://github.com/gavv/httpexpect">httpexpect</a>,
-        <a href="https://github.com/gavv/cobradoc">cobradoc</a>, 
       </td>
     </tr>
     <tr>
