@@ -23,14 +23,9 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Dev libs</strong></td>
+      <td><strong>Dev libs & tools</strong></td>
       <td><a href="https://github.com/gavv/httpexpect">httpexpect</a>,
-        <a href="https://github.com/gavv/cobradoc">cobradoc</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Dev tools</strong></td>
-      <td>
+        <a href="https://github.com/gavv/cobradoc">cobradoc</a>,
         <a href="https://github.com/gavv/reclog">reclog</a>,
         <a href="https://github.com/gavv/md-authors">md-authors</a>,
         <a href="https://github.com/gavv/httpshd">httpshd</a>
